@@ -2,7 +2,7 @@
 
 #### 📝 Project Overview
 
-This repository contains an analysis of a dataset related to tracking data, visualized using Power BI. The analysis aims to extract insights from the dataset and present them in a meaningful way using various visual representations.
+This repository contains an analysis of a dataset related to tracking data, visualized using google sheet. The analysis aims to extract insights from the dataset and present them in a meaningful way using various visual representations.
 
 #### 📂 Dataset Description
 
@@ -10,9 +10,7 @@ The dataset used in this project includes:
 
 Tracking Data: Contains information related to various metrics and user activity.
 
-Columns Analyzed: (List key columns after reviewing the dataset)
-
-Data Source: Proprietary/Generated/Public dataset (Specify the origin)
+Data Source: Client
 
 #### 🔍 Key Insights & Findings
 
@@ -33,7 +31,7 @@ Below are the key visualizations generated from the dataset:
 
 Dataset Sample
 
-! [Track Dataset](track dataset.png)
+![Track Dataset](track dataset.png)
 
 #### 📌 How to Use This Repository
 
