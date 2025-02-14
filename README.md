@@ -1,10 +1,10 @@
-📊 Data Analysis & Visualization Project
+### 📊 Data Analysis & Visualization Project
 
-📝 Project Overview
+#### 📝 Project Overview
 
 This repository contains an analysis of a dataset related to tracking data, visualized using Power BI. The analysis aims to extract insights from the dataset and present them in a meaningful way using various visual representations.
 
-📂 Dataset Description
+#### 📂 Dataset Description
 
 The dataset used in this project includes:
 
@@ -14,7 +14,7 @@ Columns Analyzed: (List key columns after reviewing the dataset)
 
 Data Source: Proprietary/Generated/Public dataset (Specify the origin)
 
-🔍 Key Insights & Findings
+#### 🔍 Key Insights & Findings
 
 Trends Identification: Observing patterns in user behavior.
 
@@ -24,43 +24,35 @@ Visual Representation: Graphs and charts summarizing data findings.
 
 Actionable Insights: Recommendations based on data patterns.
 
-🖼️ Visual Representations
+#### 🖼️ Visual Representations
 
 Below are the key visualizations generated from the dataset:
 
-Dashboard Overview
-
-
-
-Additional Insights
-
+##### Dashboard Overview
 
 
 Dataset Sample
 
 ![Track Dataset](track dataset.png)
 
-📌 How to Use This Repository
+####📌 How to Use This Repository
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sakibahmed-da/plant_sales_analysis.git)
 
 Open the dataset and explore the insights.
 
 View the Power BI dashboard or analyze the data using Python/Excel.
 
-📊 Tools & Technologies Used
+#### 📊 Tools & Technologies Used
 
-Power BI: For data visualization.
+Google sheets: Cleaning, analysis, data manipulation and also data visualisation
 
-Python (pandas, matplotlib, seaborn): For data cleaning and analysis.
-
-MS Excel: For tabular data manipulation.
-
-🏆 Conclusion
+#### 🏆 Conclusion
 
 This analysis provides key insights into the dataset and demonstrates how data visualization can enhance decision-making. Future improvements may include deeper statistical analysis and predictive modeling.
 
-📌 Author: Your Name📅 Date: February 2025
+##### 📌 Author:Sakib Ahmed
+##### 📅 Date: February 2025
 
