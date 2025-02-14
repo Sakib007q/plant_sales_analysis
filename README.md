@@ -39,7 +39,7 @@ Dataset Sample
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sakibahmed-da/plant_sales_analysis.git)
+git clone [plant_sales_analysis](https://github.com/sakibahmed-da/plant_sales_analysis.git)
 
 Open the dataset and explore the insights.
 
