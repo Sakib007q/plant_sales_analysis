@@ -26,12 +26,6 @@ Actionable Insights: Recommendations based on data patterns.
 
 Below are the key visualizations generated from the dataset:
 
-##### Dashboard Overview
-
-
-Dataset Sample
-
-![Track Dataset](track dataset.png)
 
 #### 📌 How to Use This Repository
 
