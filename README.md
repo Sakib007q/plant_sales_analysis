@@ -1,50 +1,31 @@
-### 📊 Data Analysis & Visualization Project
+*** Data Analysis & Visualization Project***
 
-#### 📝 Project Overview
+**** Project Overview**** 
 
-This repository contains an analysis of a dataset related to tracking data, visualized using google sheet. The analysis aims to extract insights from the dataset and present them in a meaningful way using various visual representations.
+***** This repository contains an in-depth analysis of a dataset related to user tracking data, visualized 
+using Google Sheets. The objective is to extract meaningful insights, identify patterns, and present 
+findings through various visual representations to facilitate data-driven decision-making. *****
 
-#### 📂 Dataset Description
+**** Data Source****: Client
 
-The dataset used in this project includes:
+**** Tools****
+> Google Sheets: Used for data cleaning, analysis, manipulation, and visualization to derive 
+meaningful insights.
 
-Tracking Data: Contains information related to various metrics and user activity.
+> - Customization and formatting of data sheets.
+> - Data analysis and trend identification.
+> - Interactive visualization of key insights from track_dataset.
 
-Data Source: Client
+**** Key Insights & Findings***
+> Identified customer usage patterns and behaviors across four countries.
+> Assessed user engagement based on device preferences and interactions.
+> Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
 
-#### 🔍 Key Insights & Findings
+**** Visual Representations****
+![dashboard](https://github.com/sakibahmed-da/plant_sales_analysis/blob/main/dashboard.png)
 
-Trends Identification: Observing patterns in user behavior.
-
-Performance Metrics: Analysis of key performance indicators.
-
-Visual Representation: Graphs and charts summarizing data findings.
-
-Actionable Insights: Recommendations based on data patterns.
-
-#### 🖼️ Visual Representations
-
-Below are the key visualizations generated from the dataset:
-
-
-#### 📌 How to Use This Repository
-
-Clone the repository:
-
-git clone [plant_sales_analysis](https://github.com/sakibahmed-da/plant_sales_analysis.git)
-
-Open the dataset and explore the insights.
-
-View the Power BI dashboard or analyze the data using Python/Excel.
-
-#### 📊 Tools & Technologies Used
-
-Google sheets: Cleaning, analysis, data manipulation and also data visualisation
-
-#### 🏆 Conclusion
-
-This analysis provides key insights into the dataset and demonstrates how data visualization can enhance decision-making. Future improvements may include deeper statistical analysis and predictive modeling.
-
-##### 📌 Author:Sakib Ahmed
-##### 📅 Date: February 2025
+**** Conclusion****
+This analysis uncovers key insights from the dataset and highlights the power of data visualization 
+in enhancing decision-making. Future improvements may involve advanced statistical analysis, 
+predictive modeling, and deeper trend exploration to refine data-driven strategies.
 
