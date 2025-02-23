@@ -26,6 +26,7 @@ meaningful insights.
 ![dashboard](https://github.com/sakibahmed-da/plant_sales_analysis/blob/main/dashboard.png)
 
 ****Conclusion****
+
 This analysis uncovers key insights from the dataset and highlights the power of data visualization 
 in enhancing decision-making. Future improvements may involve advanced statistical analysis, 
 predictive modeling, and deeper trend exploration to refine data-driven strategies.
