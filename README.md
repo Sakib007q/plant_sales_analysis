@@ -1,4 +1,4 @@
-**Data Analysis & Visualization Project**
+<h2> Data Analysis & Visualization Project</h2>
 
 ****Project Overview**** 
 
