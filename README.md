@@ -2,9 +2,9 @@
 
 ****Project Overview**** 
 
-____This repository contains an in-depth analysis of a dataset related to user tracking data, visualized 
+This repository contains an in-depth analysis of a dataset related to user tracking data, visualized 
 using Google Sheets. The objective is to extract meaningful insights, identify patterns, and present 
-findings through various visual representations to facilitate data-driven decision-making. ____
+findings through various visual representations to facilitate data-driven decision-making.
 
 ****Data Source****: Client
 
