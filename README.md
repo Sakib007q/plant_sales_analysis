@@ -9,17 +9,17 @@ findings through various visual representations to facilitate data-driven decisi
 ****Data Source****: Client
 
 ****Tools****
-> Google Sheets: Used for data cleaning, analysis, manipulation, and visualization to derive 
+* Google Sheets: Used for data cleaning, analysis, manipulation, and visualization to derive 
 meaningful insights.
 
-> - Customization and formatting of data sheets.
-> - Data analysis and trend identification.
-> - Interactive visualization of key insights from track_dataset.
+1. Customization and formatting of data sheets.
+2. Data analysis and trend identification.
+3. Interactive visualization of key insights from track_dataset.
 
 ****Key Insights & Findings****
-> Identified customer usage patterns and behaviors across four countries.
-> Assessed user engagement based on device preferences and interactions.
-> Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
+* Identified customer usage patterns and behaviors across four countries.
+* Assessed user engagement based on device preferences and interactions.
+* Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
 
 ****Visual Representations****
 ![dashboard](https://github.com/sakibahmed-da/plant_sales_analysis/blob/main/dashboard.png)
