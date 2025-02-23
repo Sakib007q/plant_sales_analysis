@@ -2,9 +2,9 @@
 
 ****Project Overview**** 
 
-*****This repository contains an in-depth analysis of a dataset related to user tracking data, visualized 
+____This repository contains an in-depth analysis of a dataset related to user tracking data, visualized 
 using Google Sheets. The objective is to extract meaningful insights, identify patterns, and present 
-findings through various visual representations to facilitate data-driven decision-making. *****
+findings through various visual representations to facilitate data-driven decision-making. ____
 
 ****Data Source****: Client
 
@@ -16,7 +16,7 @@ meaningful insights.
 > - Data analysis and trend identification.
 > - Interactive visualization of key insights from track_dataset.
 
-****Key Insights & Findings***
+****Key Insights & Findings****
 > Identified customer usage patterns and behaviors across four countries.
 > Assessed user engagement based on device preferences and interactions.
 > Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
