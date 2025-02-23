@@ -22,6 +22,7 @@ meaningful insights.
 * Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
 
 ****Visual Representations****
+
 ![dashboard](https://github.com/sakibahmed-da/plant_sales_analysis/blob/main/dashboard.png)
 
 ****Conclusion****
