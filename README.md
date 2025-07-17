@@ -21,6 +21,18 @@ meaningful insights.
 * Assessed user engagement based on device preferences and interactions.
 * Used graphs and charts to illustrate demographics, gender distribution, and visit time trends.
 
+****Actionable Insights****
+1. Device Usage Distribution: 
+* Desktop accounts for 36% of traffic, slightly leading over mobile and tablet usage. 
+* Desktop, mobile, and tablet usage remain closely distributed, emphasizing the need for cross
+device optimization in marketing campaigns. 
+2. Engagement Analysis: 
+* Visit times fluctuate significantly, with some sessions exceeding 13 minutes, while others last less 
+than a minute, indicating potential bounce rates or low engagement. 
+* Identifying factors influencing session duration can help improve retention and user experience. 
+* This analysis provides data-driven recommendations to enhance engagement strategies and 
+optimize cross-platform user experiences.  
+
 ****Visual Representations****
 
 ![dashboard](https://github.com/sakibahmed-da/plant_sales_analysis/blob/main/dashboard.png)
